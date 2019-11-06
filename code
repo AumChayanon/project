@@ -1,0 +1,11 @@
+===== vue update =====
+npm install -g @vue/cli@latest
+===== vue create =====
+vue create <name>
+vue ui
+===== vue config =====
+vue add router
+npm install @ionic/vue @ionic/core vue-router
+===== fix =====
+-- warning ionicicons
+npm install ionicons@4.5.9-1 --save-dev 
